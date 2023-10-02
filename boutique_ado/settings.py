@@ -31,7 +31,7 @@ SECRET_KEY = 'django-insecure-gfg$8whl*k#lhp001jt2wp-2=8@s$3f$r5a&c+b!3uxw9km3ry
 DEBUG = True
 
 ALLOWED_HOSTS = ['boutiqueado123.herokuapp.com', 'localhost',
-                 '8000-richburman-boutique-ado--8wog07el9a.us2.codeanyapp.com']
+                 '8000-richburman-boutique-ado--8wog07el9a.us2.codeanyapp.com', 'boutiqueado123-5a787c0cd3e3.herokuapp.com']
 
 
 # Application definition
